@@ -1,0 +1,18 @@
+body {
+	padding: 15px;
+}
+
+.table {
+	width: 100%;
+	border: 1px solid #000;
+}
+
+tr {
+	text-align: left;
+	vertical-align: top;
+	border: 1px solid #000;
+}
+
+td {
+	border: 1px solid #000;
+}
